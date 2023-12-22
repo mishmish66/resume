@@ -3,3 +3,5 @@ resume.log
 resume.out
 resume.pdf
 .vscode/*
+resume.fdb_latexmk
+resume.fls
